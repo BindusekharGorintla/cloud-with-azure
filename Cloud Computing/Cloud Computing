@@ -1,0 +1,27 @@
+
+Cloud computing is the delivery of computing services—like servers, storage, databases, networking, software, analytics, and intelligence—over the internet (“the cloud”) instead of relying on local hardware. It is designed to provide on-demand access, scalability, and cost efficiency
+
+Types of Cloud:
+
+Public Cloud: Run by third party providers like Azure, AWS,GCP
+Private Cloud: Used by single organization, ca be hosted on-premises
+Hybrid Cloud: Mix Public+private
+
+
+Azure Offers:
+
+Compute: Virtual machines, containers, serverless functions.
+
+Storage: Blob storage, file storage, disk storage for scalable data handling.
+
+Networking: Virtual networks, load balancers, VPN gateways.
+
+Databases: SQL Database, Cosmos DB, PostgreSQL, MySQL, and more.
+
+AI & Machine Learning: Cognitive services, Azure Machine Learning.
+
+Analytics: Data Lake, Synapse Analytics, HDInsight.
+
+Security & Identity: Azure Active Directory, Key Vault, Security Center.
+
+IoT: IoT Hub, IoT Central for connected devices.
